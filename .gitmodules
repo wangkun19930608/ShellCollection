@@ -1,0 +1,12 @@
+[submodule "webshell"]
+	path = webshell
+	url = https://github.com/tennc/webshell.git
+[submodule "php-webshells"]
+	path = php-webshells
+	url = https://github.com/JohnTroony/php-webshells.git
+[submodule "WebShell"]
+	path = WebShell
+	url = https://github.com/xl7dev/WebShell.git
+[submodule "WebShell-2"]
+	path = WebShell-2
+	url = https://github.com/SecWiki/WebShell-2.git
